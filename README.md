@@ -10,7 +10,7 @@ The work is implemented primarily in Jupyter Notebooks and demonstrates how nume
 
 ## 📌 What Is Numerical Analysis?
 
-Numerical analysis is the study and implementation of algorithms that provide numerical approximations to mathematical problems that are often impossible or impractical to solve symbolically. It includes methods for approximating functions, solving nonlinear equations, interpolating data points, and more. :contentReference[oaicite:0]{index=0}
+Numerical analysis is the study and implementation of algorithms that provide numerical approximations to mathematical problems that are often impossible or impractical to solve symbolically. It includes methods for approximating functions, solving nonlinear equations, interpolating data points, and more.
 
 ---
 
@@ -59,6 +59,6 @@ Interpolation and fitting algorithms are fundamental in:
 - Data science and curve fitting  
 - Numerical approximations where exact formulas are unavailable
 
-Numerical methods provide **approximate yet accurate** solutions within defined error bounds. :contentReference[oaicite:3]{index=3}
+Numerical methods provide **approximate yet accurate** solutions within defined error bounds. 
 
 ---
