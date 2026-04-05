@@ -2,6 +2,8 @@
 
 ![Alt Text](https://plus.unsplash.com/premium_photo-1681487767138-ddf2d67b35c1?q=80&w=955&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
+
+## 🚀 Overview
 This repository contains solutions and examples from the **Numerical Analysis** course at FMI. It focuses on **numerical methods** such as polynomial interpolation, approximation, and fitting data points using classical algorithms.
 
 The work is implemented primarily in Jupyter Notebooks and demonstrates how numerical techniques can be used to model and analyze mathematical data.
