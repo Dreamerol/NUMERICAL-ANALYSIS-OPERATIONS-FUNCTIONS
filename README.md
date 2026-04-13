@@ -1,4 +1,4 @@
-# <h1 align="center">PYTHON NUMERICAL ANALYSIS – MATRIX OPS & FUNCTIONS</h1>
+<h1 align="center">📊 PYTHON NUMERICAL ANALYSIS – MATRIX OPS & FUNCTIONS</h1>
 
 
 <p align="center">
