@@ -1,7 +1,10 @@
 # <h1 align="center">PYTHON NUMERICAL ANALYSIS – MATRIX OPS & FUNCTIONS</h1>
 
 
-![Alt Text](https://github.com/Dreamerol/Dreamerol/raw/0bf157c762100e98ea1d6c9ee3ea1c74ace6edf1/ZZZZZNUM%20AN222.jpg)
+<p align="center">
+  <img src="https://github.com/Dreamerol/Dreamerol/raw/0bf157c762100e98ea1d6c9ee3ea1c74ace6edf1/ZZZZZNUM%20AN222.jpg"
+       style="width:100%; height:auto;" />
+</p>
 
 
 ---
