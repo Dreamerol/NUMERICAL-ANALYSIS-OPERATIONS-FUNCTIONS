@@ -4,13 +4,6 @@
 ![Alt Text](https://github.com/Dreamerol/Dreamerol/raw/0bf157c762100e98ea1d6c9ee3ea1c74ace6edf1/ZZZZZNUM%20AN222.jpg)
 
 
-![Alt Text](https://plus.unsplash.com/premium_photo-1681487767138-ddf2d67b35c1?q=80&w=955&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
-
-
-https://github.com/Dreamerol/Dreamerol/raw/0bf157c762100e98ea1d6c9ee3ea1c74ace6edf1/ZZZZZNUM%20AN222.jpg
-
-
 ---
 
 
