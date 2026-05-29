@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/b020d9b7e76a4a2e7352ad551c80828211835fcf/ZZZZZZdat777.jpg"
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/b020d9b7e76a4a2e7352ad551c80828211835fcf/ZZZZZZdat777.jpg"
        style="width:100%; height:auto;" />
 </p>
 
