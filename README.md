@@ -1,6 +1,6 @@
 <h1 align="center">𝗣𝗬𝗧𝗛𝗢𝗡 𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 – 𝗠𝗔𝗧𝗥𝗜𝗫 𝗢𝗣𝗦 & 𝗙𝗨𝗡𝗖𝗧𝗜𝗢𝗡𝗦</h>
 
-<br>
+---
 
 <p align="center">
   <img src="https://github.com/Dreamerol/Dreamerol/blob/b020d9b7e76a4a2e7352ad551c80828211835fcf/ZZZZZZdat777.jpg"
@@ -29,9 +29,7 @@
 </p>
 
 
-
 ---
-
 
 ## 🚀 Overview
 This repository contains solutions and examples from the **Numerical Analysis** course at FMI. It focuses on **numerical methods** such as polynomial interpolation, approximation, and fitting data points using classical algorithms.
