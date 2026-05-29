@@ -51,7 +51,7 @@ The work is implemented primarily in Jupyter Notebooks and demonstrates how nume
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-
+---
 
 
 ## 📌 What Is Numerical Analysis?
