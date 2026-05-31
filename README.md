@@ -1,7 +1,7 @@
 <h1 align="center">𝗣𝗬𝗧𝗛𝗢𝗡 𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦<h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/eaae15550f566969e70388055b2733a28ed35456/numanalis3.jpg"
+  <img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/numanalis3.jpg"
        style="width:100%; height:auto;" />
 </p>
 
