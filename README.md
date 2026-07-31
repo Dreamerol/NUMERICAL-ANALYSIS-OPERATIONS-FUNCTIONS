@@ -102,7 +102,8 @@ This structure helps organize methods used in numerical analysis for different e
 
 ---
 
-This method lets you estimate intermediate values between known data points. :contentReference[oaicite:2]{index=2}
+
+This method lets you estimate intermediate values between known data points. 
 
 
 
