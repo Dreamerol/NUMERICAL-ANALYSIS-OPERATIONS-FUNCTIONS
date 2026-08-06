@@ -9,11 +9,13 @@
 
 
 
+<br>
+
 
 
 <div align="center" style="white-space:nowrap;">
 
-<span style="font-size:1.15em;">
+<span style="font-size:14px;">
 
 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> &nbsp;•&nbsp;
 🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> &nbsp;•&nbsp;
@@ -26,7 +28,6 @@
 </span>
 
 </div>
-
 
 
 
