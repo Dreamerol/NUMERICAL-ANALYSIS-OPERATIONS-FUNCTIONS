@@ -33,11 +33,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-<br>
-
-
-
-
 
 ## 🚀 Overview
 This repository contains solutions and examples from the **Numerical Analysis** course at FMI. It focuses on **numerical methods** such as polynomial interpolation, approximation, and fitting data points using classical algorithms.
