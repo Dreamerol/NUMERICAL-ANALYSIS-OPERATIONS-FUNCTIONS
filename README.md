@@ -12,13 +12,38 @@
 
 
 
+<br>
+
+
+
+
+<div align="center" style="white-space:nowrap;">
+
+<span style="font-size:1.15em;">
+
+🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> &nbsp;•&nbsp;
+🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> &nbsp;•&nbsp;
+🌐 <a href="https://github.com/Dreamerol/PORTFOLIO">𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢</a> &nbsp;•&nbsp;
+🧩 <a href="https://github.com/Dreamerol/CARDFOLIO">𝗥𝗘𝗣𝗢𝗦</a> &nbsp;•&nbsp;
+📇 <a href="https://github.com/Dreamerol/VIZITKA">𝗗𝗜𝗚𝗜𝗧𝗔𝗟 𝗖𝗔𝗥𝗗</a> &nbsp;•&nbsp;
+📊 <a href="https://github.com/Dreamerol/ALLSTATS">𝗔𝗟𝗟 𝗦𝗧𝗔𝗧𝗦</a> &nbsp;•&nbsp;
+✅ <a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a>
+
+</span>
+
+</div>
+
+
+
+
+
 
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
 
 <img
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
 width="100%"
 alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL"
 />
@@ -26,6 +51,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 </a>
 
 </div>
+
 
 
 
